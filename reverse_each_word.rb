@@ -9,4 +9,5 @@ end
 def reverse_each_word(string)
   og_array = string.split(" ")
   fresh_array = []
-  string.collect do |char|
+  fresh_array.collect do |string|
+    
